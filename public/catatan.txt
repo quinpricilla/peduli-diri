@@ -1,0 +1,4 @@
+
+1|pricilla|2023-02-09|09:12|bandung|37 °
+1|pricilla|2023-02-10|07:52|cilangkap|37 °
+1|pricilla|2023-02-13|07:44|bekasi|36 °
